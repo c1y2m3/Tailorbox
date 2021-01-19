@@ -32,7 +32,7 @@
 
 ##### 功能界面
 
-![](https://c1y2m3.oss-cn-beijing.aliyuncs.com/_20210119145536.png)
+![](https://c1y2m3.oss-cn-beijing.aliyuncs.com/_20210119151459.png)
 
 ##### References：
 
