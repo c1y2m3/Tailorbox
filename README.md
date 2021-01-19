@@ -28,11 +28,11 @@
 
 ##### 登录界面
 
-![](https://c1y2m3.oss-cn-beijing.aliyuncs.com/_20210119145240.png)
+![](https://raw.githubusercontent.com/c1y2m3/Tailorbox/main/images/login.png)
 
 ##### 功能界面
 
-![](https://c1y2m3.oss-cn-beijing.aliyuncs.com/_20210119151459.png)
+![](https://raw.githubusercontent.com/c1y2m3/Tailorbox/main/images/start.png)
 
 ##### References：
 
