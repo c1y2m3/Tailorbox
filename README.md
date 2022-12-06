@@ -35,7 +35,7 @@
 
 1、修改母体exe编译时间、创建时间、修改时间和访问时间。 
 
-2、把pyminizip修改成系统winrar加密文件名。 
+2、把pyminizip替换成系统winrar加密文件名。 
 
 3、随机追加数据到icon，防止杀软针对ico md5特征定位。
 
