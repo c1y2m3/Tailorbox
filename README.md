@@ -32,6 +32,7 @@
 2、暂时用typedef，GetProcAddress隐藏iat表，静态扫描优化，待改进。 
 
 2022.12.6
+
 1、修改母体exe编译时间、创建时间、修改时间和访问时间。 
 
 2、把pyminizip修改成系统winrar加密文件名。 
