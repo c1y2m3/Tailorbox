@@ -41,6 +41,10 @@
 
 2022.12.11
 
+1、增加flash安装包生成功能，利用 inno setup 5进行打包iss文件。
+
+
+
 ##### 登录界面
 
 ![](https://raw.githubusercontent.com/c1y2m3/Tailorbox/main/images/login.png)
@@ -48,6 +52,9 @@
 ##### 功能界面
 
 ![](https://raw.githubusercontent.com/c1y2m3/Tailorbox/main/images/start.png)
+
+![](https://c1y2m3.oss-cn-beijing.aliyuncs.com/1.gif)
+
 
 ##### References：
 
