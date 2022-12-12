@@ -39,6 +39,8 @@
 
 3、随机追加数据到icon，防止杀软针对ico md5特征定位。
 
+2022.12.11
+
 ##### 登录界面
 
 ![](https://raw.githubusercontent.com/c1y2m3/Tailorbox/main/images/login.png)
