@@ -43,6 +43,9 @@
 
 1、增加flash安装包生成功能，利用 inno setup 5进行打包iss文件。
 
+2023.2.1
+
+1、新增email地址查询功能，调用的是自己之前全网爬以及过滤企查查的数据。
 
 
 ##### 登录界面
@@ -55,6 +58,7 @@
 
 ![](https://c1y2m3.oss-cn-beijing.aliyuncs.com/1.gif)
 
+![](https://raw.githubusercontent.com/c1y2m3/Tailorbox/main/images/email.png)
 
 ##### References：
 
