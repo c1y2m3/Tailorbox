@@ -28,6 +28,8 @@
   
   EmailSearch(全网邮箱地址查询)
   
+  djjhihack(白加黑劫持)
+  
 # 更新🚀
 1、全局函数/变量/常量/注释随机混淆，添加脏数据编译，尽可能减少特征被定位。
 
@@ -49,6 +51,9 @@
 
 1、新增email地址查询功能，调用的是自己之前全网爬以及过滤企查查的数据。
 
+2023.2.12
+
+1、新增白加黑dll转发功能，内置三种白文件自带dll签名。
 
 ##### 登录界面
 
@@ -59,6 +64,8 @@
 ![](https://raw.githubusercontent.com/c1y2m3/Tailorbox/main/images/start.png)
 
 ![](https://c1y2m3.oss-cn-beijing.aliyuncs.com/1.gif)
+
+![](https://raw.githubusercontent.com/c1y2m3/Tailorbox/main/images/dllhihack.png)
 
 ![](https://raw.githubusercontent.com/c1y2m3/Tailorbox/main/images/email.png)
 
