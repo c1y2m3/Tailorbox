@@ -63,7 +63,7 @@
 
 ![](https://raw.githubusercontent.com/c1y2m3/Tailorbox/main/images/start.png)
 
-![](https://c1y2m3.oss-cn-beijing.aliyuncs.com/1.gif)
+![](https://c1y2m3.oss-cn-beijing.aliyuncs.com/1670825719512-460cd223-1449-447d-90f4-dc5099abc6d7.gif)
 
 ![](https://raw.githubusercontent.com/c1y2m3/Tailorbox/main/images/dllhihack.png)
 
