@@ -51,8 +51,6 @@
 
 4、在线web解析fscan扫描结果，实现项目-》节点-》标签页展示
 
-![](https://c1y2m3.oss-cn-beijing.aliyuncs.com/20230914164907.png)
-
 ##### 登录界面
 
 ![](https://c1y2m3.oss-cn-beijing.aliyuncs.com/20230914164907.png)
@@ -60,7 +58,6 @@
 ##### 功能界面
 
 ![](https://c1y2m3.oss-cn-beijing.aliyuncs.com/20230914165306.png)
-
 
 ##### 历史截图
 
