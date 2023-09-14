@@ -17,7 +17,7 @@
 # 更新记录🚀
 1、全局函数/变量/常量/注释随机混淆，添加脏数据编译，尽可能减少特征被定位。
 
-2、暂时用typedef，GetProcAddress隐藏iat表，静态扫描优化，待改进。 
+2、暂时用自定义typedef，GetProcAddress隐藏iat表，静态扫描优化，待改进。 
 
 2022.12.6
 
@@ -41,9 +41,13 @@
 
 1、新增白加黑dll转发功能，内置多种白文件自带dll签名。
 
+2023.5.10
+
+1、重写资源释放API，来降低落地程序的熵值,参考https://github.com/NUL0x4C/ManualRsrcDataFetching
+
 2023.9.10
 
-1、更换前端UI,修改界面逻辑以便于多人操作。
+1、更换前端UI模板,修改界面逻辑以便于多人操作。
 
 2、新增fscan，HackBrowserData、FileSearch，SharpDecryptPwd等后渗透功能
 
