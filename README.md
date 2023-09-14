@@ -2,35 +2,19 @@
 学的越多，才知道自己的渺小
 ##### 自动化生成平台
 
-- 目前支持以下功能，持续更新中....  
+- 目前已有功能，持续更新中....  
 
-  ShellcodeRun(远程加载器)  
+  上线生成
   
-  Trojan(邮件释放马)
+  权限维持
+
+  常用工具
+
+  辅助功能
+
+  FscanOutput
   
-  Mimikatz(SSP)
-  
-  免杀版mimikatz
-  
-  自动化SSP利用武器免杀版
-  
-  Maintain(权限维持)
-  
-  NetScheduleJobAdd(添加周期性任务计划)
-  
-  NewTasks(添加任务计划(每隔一小时启动)
-  
-  GetAv(杀软在线对比)
-  
-  Subatk(子域名探测)
-  
-  CtypeSearch(C段扫描探测)
-  
-  EmailSearch(全网邮箱地址查询)
-  
-  djjhihack(白加黑劫持)
-  
-# 更新🚀
+# 更新记录🚀
 1、全局函数/变量/常量/注释随机混淆，添加脏数据编译，尽可能减少特征被定位。
 
 2、暂时用typedef，GetProcAddress隐藏iat表，静态扫描优化，待改进。 
@@ -41,11 +25,13 @@
 
 2、把pyminizip替换成系统winrar加密文件名。 
 
-3、随机追加数据到icon，防止杀软针对ico md5特征定位。
+3、修改像素和添加随机字节到icon，防止杀软针对ico md5特征定位。
 
 2022.12.11
 
 1、增加flash安装包生成功能，利用 inno setup 5进行打包iss文件。
+
+2、使用MoveFileA隐藏任务管理器中的进程。
 
 2023.2.1
 
@@ -53,13 +39,30 @@
 
 2023.2.12
 
-1、新增白加黑dll转发功能，内置三种白文件自带dll签名。
+1、新增白加黑dll转发功能，内置多种白文件自带dll签名。
+
+2023.9.10
+
+1、更换前端UI,修改界面逻辑以便于多人操作。
+
+2、新增fscan，HackBrowserData、FileSearch，SharpDecryptPwd等后渗透功能
+
+3、新增网络准入下发功能，支持多种二开C2 beacon上线方式，接入到钉钉协同操作。
+
+4、在线web解析fscan扫描结果，实现项目-》节点-》标签页展示
+
+![](https://c1y2m3.oss-cn-beijing.aliyuncs.com/20230914164907.png)
 
 ##### 登录界面
 
-![](https://raw.githubusercontent.com/c1y2m3/Tailorbox/main/images/login.png)
+![](https://c1y2m3.oss-cn-beijing.aliyuncs.com/20230914164907.png)
 
 ##### 功能界面
+
+![](https://c1y2m3.oss-cn-beijing.aliyuncs.com/20230914165306.png)
+
+
+##### 历史截图
 
 ![](https://raw.githubusercontent.com/c1y2m3/Tailorbox/main/images/start.png)
 
