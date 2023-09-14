@@ -49,11 +49,13 @@
 
 1、更换前端UI模板,修改界面逻辑以便于多人操作。
 
-2、新增fscan，HackBrowserData、FileSearch，SharpDecryptPwd等后渗透功能
+2、新增fscan，HackBrowserData、FileSearch，SharpDecryptPwd等后渗透功能。
 
-3、新增网络准入下发功能，支持多种二开C2 beacon上线方式，接入到钉钉协同操作。
+3、新增域前置网络准入下发功能，支持多种二开C2 beacon上线方式，接入到钉钉协同操作。
 
-4、在线web解析fscan扫描结果，实现项目-》节点-》标签页展示
+4、在线web解析fscan扫描结果，实现项目-》节点-》标签页展示。
+
+5、重构原始loader,新增多种内存查杀bypass。
 
 ##### 登录界面
 
