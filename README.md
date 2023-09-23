@@ -44,6 +44,7 @@
 2023.5.10
 
 1、重写资源释放API，来降低落地程序的熵值,参考https://github.com/NUL0x4C/ManualRsrcDataFetching
+2、随机抽取ico图标替换生成出来的可执行程序。
 
 2023.9.10
 
@@ -55,7 +56,7 @@
 
 4、在线web解析fscan扫描结果，实现项目-》节点-》标签页展示。
 
-5、重构原始loader,新增多种内存查杀bypass。
+5、重构原始loader,新增VEH、Ekko bypass内存查杀。
 
 ##### 登录界面
 
