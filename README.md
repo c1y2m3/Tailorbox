@@ -68,11 +68,11 @@
 
 ##### 登录界面
 
-![](https://c1y2m3.oss-cn-beijing.aliyuncs.com/20230914171940.png)
+![](https://c1y2m3.oss-cn-beijing.aliyuncs.com/Dingtalk_20230928104423.jpg)
 
 ##### 功能界面
 
-![](https://c1y2m3.oss-cn-beijing.aliyuncs.com/20230914165306.png)
+![](https://c1y2m3.oss-cn-beijing.aliyuncs.com/Dingtalk_20230928104344.jpg)
 
 ##### 历史截图
 
