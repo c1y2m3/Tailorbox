@@ -77,7 +77,7 @@
 
 ##### 功能界面
 
-![](https://c1y2m3.oss-cn-beijing.aliyuncs.com/Dingtalk_20230928104344.jpg)
+![](https://c1y2m3.oss-cn-beijing.aliyuncs.com/_20231113210945.png)
 
 ##### 历史截图
 
